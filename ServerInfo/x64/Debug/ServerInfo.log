@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ServerInfo.cpp
+d:\lập trình mạng\serverinfo\serverinfo.cpp(55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ServerInfo.vcxproj -> D:\Lập trình mạng\x64\Debug\ServerInfo.exe

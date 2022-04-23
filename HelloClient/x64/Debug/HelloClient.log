@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  HelloClient.cpp
+d:\lập trình mạng\helloclient\helloclient.cpp(55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  HelloClient.vcxproj -> D:\Lập trình mạng\x64\Debug\HelloClient.exe

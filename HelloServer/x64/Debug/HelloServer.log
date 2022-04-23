@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  HelloServer.cpp
+d:\lập trình mạng\helloserver\helloserver.cpp(47): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  HelloServer.vcxproj -> D:\Lập trình mạng\x64\Debug\HelloServer.exe
